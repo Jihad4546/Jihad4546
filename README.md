@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Enthusiast;Learning+Node.js;Open+to+Work" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Enthusiast;Learning+Node.js;Open+to+Work" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihad4546&label=Profile%20views&color=0e75b6&style=flat" alt="jihad4546" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihad4546" alt="jihad4546" /></a> </p>
