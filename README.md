@@ -1,10 +1,5 @@
 <!-- 🔥 Cover Image -->
 <img width="1536" height="1024" alt="ChatGPT Image Apr 8, 2026, 07_35_04 AM" src="https://github.com/user-attachments/assets/e254af41-9659-4ebf-8468-ca708710f9f4" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jihad4546/jihad4546/main/cover.png" width="100%" />
-</p>
-
 <!-- 👋 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Enthusiast;Learning+Node.js;Open+to+Work" />
