@@ -1,43 +1,83 @@
-## Hi there 👋
+<!-- 🔥 Cover Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jihad4546/jihad4546/main/cover.png" width="100%" />
+</p>
+
+<!-- 👋 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Enthusiast;Learning+Node.js;Open+to+Work" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Zihad Hosen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Enthusiast;Learning+Node.js;Open+to+Work" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Enthusiast;Learning+Node.js;Open+to+Work" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihad4546&label=Profile%20views&color=0e75b6&style=flat" alt="jihad4546" /> </p>
+<h3 align="center">Frontend Developer | Future Full Stack Developer 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihad4546" alt="jihad4546" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Book Vibe Web App](https://resonant-frangipane-b02969.netlify.app/)
+## 📍 Location & Contact
+- 📍 Bangladesh  
+- 📧 hasanjihad4546@gmail.com  
 
-- 🌱 I’m currently learning **Node.js**
+---
 
-- 👯 I’m looking to collaborate on [DitiTooL](https://jocular-basbousa-85eb43.netlify.app/)
 ## 👨‍💻 About Me
-- 💻 I love building modern web applications  
+- 💻 I love building modern and responsive web applications  
 - 🚀 Currently learning backend with Node.js  
+- 🌱 Exploring Next.js  
+- 🔥 Working on real-world projects  
 - 🎯 Goal: Become a Full Stack Developer  
-- ⚡ Fun fact: I love solving coding problems
-## 📌 Featured Projects
 
-### 📚 Book Vibe Web App
-🔗 https://resonant-frangipane-b02969.netlify.app/  
-👉 A modern book tracking web app built with React
+---
 
-### 🛠️ DitiTooL
-🔗 https://jocular-basbousa-85eb43.netlify.app/  
-👉 A useful web tool collection platform
+## 🚀 Current Activities
+- 🔭 Working on **Book Vibe Web App**  
+- 👯 Collaborating on **DitiTooL**  
+- 📚 Learning API & Backend  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,nextjs,figma,photoshop,git" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/zihad4546">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihad4546&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad4546&layout=compact&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jihad4546&theme=tokyonight" />
 </p>
-## 🏆 Goals for 2026
-- ✅ Learn Node.js & Express
-- 🔄 Build 5 Full Stack Projects
-- 🚀 Get a Developer Job
 
+---
+
+## 🏆 Goals for 2026
+- ✅ Learn Node.js & Express  
+- 🔄 Build 5 Full Stack Projects  
+- 🚀 Get a Developer Job  
 - 📫 How to reach me **hasanjihad4546@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
