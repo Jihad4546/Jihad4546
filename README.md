@@ -13,6 +13,27 @@
 - 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on [DitiTooL](https://jocular-basbousa-85eb43.netlify.app/)
+## 👨‍💻 About Me
+- 💻 I love building modern web applications  
+- 🚀 Currently learning backend with Node.js  
+- 🎯 Goal: Become a Full Stack Developer  
+- ⚡ Fun fact: I love solving coding problems
+## 📌 Featured Projects
+
+### 📚 Book Vibe Web App
+🔗 https://resonant-frangipane-b02969.netlify.app/  
+👉 A modern book tracking web app built with React
+
+### 🛠️ DitiTooL
+🔗 https://jocular-basbousa-85eb43.netlify.app/  
+👉 A useful web tool collection platform
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jihad4546&theme=tokyonight" />
+</p>
+## 🏆 Goals for 2026
+- ✅ Learn Node.js & Express
+- 🔄 Build 5 Full Stack Projects
+- 🚀 Get a Developer Job
 
 - 📫 How to reach me **hasanjihad4546@gmail.com**
 
