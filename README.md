@@ -57,31 +57,9 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihad4546&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad4546&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jihad4546&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Goals for 2026
 - ✅ Learn Node.js & Express  
 - 🔄 Build 5 Full Stack Projects  
 - 🚀 Get a Developer Job  
 - 📫 How to reach me **hasanjihad4546@gmail.com**
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihad4546&show_icons=true&locale=en&layout=compact" alt="jihad4546" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihad4546&show_icons=true&locale=en" alt="jihad4546" /></p>
